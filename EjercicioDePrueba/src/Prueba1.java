@@ -5,6 +5,7 @@ public class Prueba1 {
 		// TODO Auto-generated method stub
 		System.out.println("Ejercicio de prueba");
 		System.out.println("Hola");
+		System.out.println("Hola");
 
 	}
 
